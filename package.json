@@ -1,6 +1,6 @@
 {
   "name": "android-debug-db-cordova-plugin",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Cordova plugin to integrate with Android-Debug-Database library",
   "repository": {
     "type": "git",
