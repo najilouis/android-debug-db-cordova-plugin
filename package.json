@@ -1,6 +1,6 @@
 {
   "name": "android-debug-db-cordova-plugin",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Cordova plugin to integrate with Android-Debug-Database library",
   "repository": {
     "type": "git",
@@ -9,7 +9,8 @@
   "keywords": [
     "android debug database",
     "sqlite",
-    "cordova"
+    "cordova",
+    "ionic"
   ],
   "author": "Naji Louis",
   "license": "ISC",
