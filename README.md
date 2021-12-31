@@ -4,7 +4,7 @@ Cordova plugin to integrate with [Android-Debug-Database](https://github.com/ami
 
 It allows you to view databases and shared preferences directly in your browser in a very simple way using [Android-Debug-Database](https://github.com/amitshekhariitbhu/Android-Debug-Database) library and without rooting your Android device.
 
-#Supported Platforms
+# Supported Platforms
 
 - Android
 
