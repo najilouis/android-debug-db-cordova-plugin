@@ -4,7 +4,7 @@
   "description": "Cordova plugin to integrate with Android-Debug-Database library",
   "repository": {
     "type": "git",
-    "url": "https://github.com/najilouis/android-debug-db-cordova-plugin.git"
+    "url": "git+https://github.com/najilouis/android-debug-db-cordova-plugin.git"
   },
   "keywords": [
     "android debug database",
